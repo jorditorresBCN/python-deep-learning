@@ -5,9 +5,10 @@
 
 <a href="https://www.marcombo.com/python-deep-learning-9788426728289/"><img src="https://www.marcombo.com/wp-content/uploads/2019/12/9788426728289.jpg" alt="Python Deep Learning" height="256px" align="right"></a>
 
-Este es el código del libro [Python Deep Learning](https://www.marcombo.com/python-deep-learning-9788426728289/), publicado por Marcombo
+**Este github contiene el código del libro [Python Deep Learning](https://www.marcombo.com/python-deep-learning-9788426728289/), publicado por Marcombo**
 
 
+### Acerca del libro
 
 La inteligencia artificial permite la innovación y el cambio en todos los aspectos de la vida moderna. La mayoría de los avances actuales se basan en Deep Learning, un área de conocimiento muy madura que permite a las empresas desarrollar y poner en producción sus algoritmos de aprendizaje automático.
 
